@@ -6,6 +6,8 @@ A simulated ecosystem for cells created in **Processing** for an assignment at T
 ## How It's Made:
 **Created with:** Java
 
+If you'd like to read my documentattion as well: ![Documentation](docs/Documentation.pdf)
+
 This was a university assignment, however the concepts and designs implemented were all different for each student, as our only task was to create a simulation for an ecosystem with no instructions on how it was to be designed. I started with finding inspiration and I had initially wanted to do a fish ecosystem. But I changed my mind soon after as I wanted to create something unique. I had weekly meetings with other students to iterate over my concepts and make changes if needed. All components in my simulation were designed by me on a pixel art platform, using common cell designs as inspiration.
 
 In terms of code, I first implemented a movement that made cells follow their targets, along with the crowding behaviour. I then built on top of it to add collision for damages and support mechanisms. The support cells have a unique behaviour where they actively avoid enemy cells no matter if they're following protector cells or moving idly.
