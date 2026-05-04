@@ -1,4 +1,4 @@
-# CellSimulation
+# Cell Simulation
 A simulated ecosystem for cells created in **Processing** for an assignment at The University of Waikato. This ecosystem consists of three different cell species - enemy, protector, and support cell - and simulates a predator-prey dynamic with an additional protector role. Additionally, there is the ability to change the temperature of the ecosystem and the reproduction rates of the enemy and protector cells to promote user interaction.
 
 **NOTE:** This is not an accurate representation of a real cell simulation. This was to simulate an ecosystem and I happened to use cells as the species in my ecosystem.
@@ -6,7 +6,7 @@ A simulated ecosystem for cells created in **Processing** for an assignment at T
 ## How It's Made:
 **Created with:** Java
 
-If you'd like to read my documentattion as well: ![Documentation](docs/Documentation.pdf)
+If you'd like to read my documentation as well: ![Documentation](docs/Documentation.pdf)
 
 This was a university assignment, however the concepts and designs implemented were all different for each student, as our only task was to create a simulation for an ecosystem with no instructions on how it was to be designed. I started with finding inspiration and I had initially wanted to do a fish ecosystem. But I changed my mind soon after as I wanted to create something unique. I had weekly meetings with other students to iterate over my concepts and make changes if needed. All components in my simulation were designed by me on a pixel art platform, using common cell designs as inspiration.
 
